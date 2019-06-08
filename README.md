@@ -1,15 +1,15 @@
 
-PKMoviePlayer
+Movie Player
 =========
 
-## PKMoviePlayer.
+## Movie Player.
 ------------
  Added Some screens here.
  
-[![](https://github.com/pawankv89/PKMoviePlayer/blob/master/Screens/1.png)]
-[![](https://github.com/pawankv89/PKMoviePlayer/blob/master/Screens/2.png)]
-[![](https://github.com/pawankv89/PKMoviePlayer/blob/master/Screens/3.png)]
-[![](https://github.com/pawankv89/PKMoviePlayer/blob/master/Screens/4.png)]
+![](https://github.com/pawankv89/PKMoviePlayer/blob/master/Screens/1.png)
+![](https://github.com/pawankv89/PKMoviePlayer/blob/master/Screens/2.png)
+![](https://github.com/pawankv89/PKMoviePlayer/blob/master/Screens/3.png)
+![](https://github.com/pawankv89/PKMoviePlayer/blob/master/Screens/4.png)
 
 ## Usage
 ------------
